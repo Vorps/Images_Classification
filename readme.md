@@ -9,3 +9,5 @@ Pour tester le code :
 Plot_Compte_Rendu.m : Pour retrouver les plots du compte rendu  
 
 __ML.m__ : Pour tester les modèles  
+
+Plus de détail dans le dossier __"Docs"__
