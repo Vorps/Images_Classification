@@ -7,7 +7,7 @@ Classification d'un ensemble d’images dans 4 catégories sachant que cet ensem
 Tester le code
 ==============
 
-Importer les données de test fournies sous le nom de dossier : __"Database"__
+Importer les données de test fournies sous le nom de dossier : __"base_data"__
 
 Pour tester le code :  
 	1. Générer les images :  
